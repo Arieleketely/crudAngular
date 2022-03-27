@@ -1,0 +1,3 @@
+ng new novo-angular
+cd novo-angular
+ng serve

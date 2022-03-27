@@ -1,0 +1,14 @@
+
+Copie e cole todos comandos abaixo: 
+
+npm install
+npm i server
+npm start
+
+
+
+Execulte no navegador para ver o json com os dados:
+
+
+http://localhost:3001/respostas
+http://localhost:3001/perguntas
