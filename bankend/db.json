@@ -1,99 +1,30 @@
 {
-    "quizzes": [
-      {
-
-      
-        "tean": "623497e07ccb72a54717b9f4",
-        "title":"Acerte a contar ",
-        "description": "Quantos é 2 + 2?",
-         "level": "EASY",
-          "type": "MULTIPLE_CHOICE_ONE",
-        "rewardXp": 10
-      },
-      {
-
-      
-        "tean": "623497e07ccb72a54717b9f4",
-        "title":"Acerte a contar ",
-        "description": "Quantos é 3 + 2?",
-         "level": "EASY",
-          "type": "MULTIPLE_CHOICE_ONE",
-        "rewardXp": 10
-      }
-      ],
-
-    "respostas": [
-        {
-            "correct":true,
-            "text":"correta é 4"
-        },
-        {
-            "correct":true,
-            "text":" é 6"
-        }
-    ]
-
-
+  "quizzes": [
+    {
+      "tean": "623497e07ccb72a54717b9f4",
+      "title": "Acerte a contar ",
+      "description": "Quantos é 2 + 2?",
+      "level": "EASY",
+      "type": "MULTIPLE_CHOICE_ONE",
+      "rewardXp": 10
+    },
+    {
+      "tean": "623497e07ccb72a54717b9f4",
+      "title": "Acerte a contar ",
+      "description": "Quantos é 3 + 2?",
+      "level": "EASY",
+      "type": "MULTIPLE_CHOICE_ONE",
+      "rewardXp": 10
+    }
+  ],
+  "respostas": [
+    {
+      "correct": true,
+      "text": "correta é 4"
+    },
+    {
+      "correct": true,
+      "text": " é 6"
+    }
+  ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
